@@ -8,4 +8,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Showroom.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Autoroom.unity
+    guid: 94c99f08bcd7de649a78b8db71c84d13
+  - enabled: 1
+    path: Assets/Scenes/Goatroom.unity
+    guid: 0e0228cb896bf8f43adea530405ed608
   m_configObjects: {}
