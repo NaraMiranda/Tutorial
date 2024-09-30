@@ -5,10 +5,10 @@ using UnityEngine;
 public class Test : MonoBehaviour
 {
 
-    public int a;
-    public float b;
-    public Vector3 c;
-    public bool d;
+    public int a = 2;
+    public float b = 3f;
+    public Vector3 c = Vector3.zero;
+    public bool d = true;
 
     public GameObject obj;
     public Transform transform;
